@@ -38,7 +38,7 @@
         <p>OH⁻ (jon wodorotlenowy)</p>
         <p>SO₄²⁻ (jon siarczanowy)</p>
 	</div>
-</body>
+</div>
 
 	
         <!-- Slajd 1: Wprowadzenie do dysocjacji elektrolitycznej -->
