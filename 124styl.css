@@ -169,6 +169,7 @@ button:hover {
 }
 
 footer {
+    width: 100%;
     background-color: var(--primary);
     text-align: center;
     padding: 1px;
